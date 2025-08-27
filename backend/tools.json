@@ -1,0 +1,974 @@
+[
+  {
+    "id": 1,
+    "toolName": "Midjourney",
+    "description": "Generates high-quality, artistic images from text descriptions. Known for its distinct, beautiful style.",
+    "useCase": "Image Generation",
+    "pricingModel": "Paid",
+    "keywords": [
+      "art",
+      "image",
+      "logo",
+      "design",
+      "photorealistic",
+      "graphics"
+    ],
+    "toolURL": "https://www.midjourney.com/"
+  },
+  {
+    "id": 2,
+    "toolName": "Copy.ai",
+    "description": "An AI-powered copywriter that generates marketing copy, blog posts, and social media content.",
+    "useCase": "Copywriting",
+    "pricingModel": "Freemium",
+    "keywords": ["writing", "marketing", "content", "email", "ads", "text"],
+    "toolURL": "https://www.copy.ai/"
+  },
+  {
+    "id": 3,
+    "toolName": "Descript",
+    "description": "An all-in-one audio and video editor that makes editing as easy as a word doc. It can also clone your voice.",
+    "useCase": "Video & Audio Editing",
+    "pricingModel": "Freemium",
+    "keywords": [
+      "video",
+      "audio",
+      "editing",
+      "podcast",
+      "voiceover",
+      "transcription"
+    ],
+    "toolURL": "https://www.descript.com/"
+  },
+  {
+    "id": 4,
+    "toolName": "ChatGPT",
+    "description": "AI chatbot by OpenAI that can generate text, answer questions, and assist with creative and technical tasks.",
+    "useCase": "Conversational AI",
+    "pricingModel": "Freemium",
+    "keywords": [
+      "chatbot",
+      "assistant",
+      "Q&A",
+      "creative writing",
+      "coding",
+      "ideas"
+    ],
+    "toolURL": "https://chat.openai.com/"
+  },
+  {
+    "id": 5,
+    "toolName": "Jasper",
+    "description": "AI writing assistant tailored for businesses, creating blogs, ad copy, and product descriptions.",
+    "useCase": "Content Marketing",
+    "pricingModel": "Paid",
+    "keywords": ["copywriting", "business", "marketing", "ads", "SEO", "email"],
+    "toolURL": "https://www.jasper.ai/"
+  },
+  {
+    "id": 6,
+    "toolName": "Runway ML",
+    "description": "Creative AI tool for video editing, motion tracking, and generative media with AI effects.",
+    "useCase": "Video Creation",
+    "pricingModel": "Freemium",
+    "keywords": [
+      "video",
+      "AI effects",
+      "motion",
+      "creative",
+      "film",
+      "editing"
+    ],
+    "toolURL": "https://runwayml.com/"
+  },
+  {
+    "id": 7,
+    "toolName": "Synthesia",
+    "description": "Generates AI-powered videos with avatars from plain text input. No need for cameras or actors.",
+    "useCase": "Video Generation",
+    "pricingModel": "Paid",
+    "keywords": [
+      "avatar",
+      "video",
+      "presentation",
+      "learning",
+      "voiceover",
+      "AI video"
+    ],
+    "toolURL": "https://www.synthesia.io/"
+  },
+  {
+    "id": 8,
+    "toolName": "Pictory",
+    "description": "AI tool that converts long-form content like blogs and webinars into short, shareable videos.",
+    "useCase": "Content Repurposing",
+    "pricingModel": "Freemium",
+    "keywords": ["video", "social media", "repurpose", "shorts", "AI editing"],
+    "toolURL": "https://pictory.ai/"
+  },
+  {
+    "id": 9,
+    "toolName": "Grammarly",
+    "description": "AI-powered writing assistant that checks grammar, clarity, tone, and plagiarism.",
+    "useCase": "Writing Assistance",
+    "pricingModel": "Freemium",
+    "keywords": [
+      "grammar",
+      "spellcheck",
+      "writing",
+      "clarity",
+      "plagiarism",
+      "email"
+    ],
+    "toolURL": "https://www.grammarly.com/"
+  },
+  {
+    "id": 10,
+    "toolName": "Notion AI",
+    "description": "AI-powered assistant built into Notion for writing, summarization, and knowledge management.",
+    "useCase": "Productivity",
+    "pricingModel": "Freemium",
+    "keywords": [
+      "notes",
+      "organization",
+      "writing",
+      "summarization",
+      "productivity"
+    ],
+    "toolURL": "https://www.notion.so/product/ai"
+  },
+  {
+    "id": 11,
+    "toolName": "QuillBot",
+    "description": "Paraphrasing and summarization tool that helps rewrite content in multiple tones and styles.",
+    "useCase": "Paraphrasing",
+    "pricingModel": "Freemium",
+    "keywords": ["paraphrase", "summarize", "writing", "academic", "content"],
+    "toolURL": "https://quillbot.com/"
+  },
+  {
+    "id": 12,
+    "toolName": "DALL·E 3",
+    "description": "AI image generator by OpenAI that creates photorealistic and artistic visuals from text prompts.",
+    "useCase": "Image Generation",
+    "pricingModel": "Freemium",
+    "keywords": ["art", "image", "illustration", "design", "creative"],
+    "toolURL": "https://openai.com/dall-e-3"
+  },
+  {
+    "id": 13,
+    "toolName": "Murf AI",
+    "description": "AI voice generator that converts text into realistic voiceovers for videos and presentations.",
+    "useCase": "Voiceover",
+    "pricingModel": "Freemium",
+    "keywords": [
+      "voice",
+      "text-to-speech",
+      "podcast",
+      "audiobook",
+      "narration"
+    ],
+    "toolURL": "https://murf.ai/"
+  },
+  {
+    "id": 14,
+    "toolName": "Fireflies.ai",
+    "description": "AI meeting assistant that records, transcribes, and summarizes meetings automatically.",
+    "useCase": "Meeting Productivity",
+    "pricingModel": "Freemium",
+    "keywords": [
+      "meetings",
+      "transcription",
+      "notes",
+      "summary",
+      "productivity"
+    ],
+    "toolURL": "https://fireflies.ai/"
+  },
+  {
+    "id": 15,
+    "toolName": "Perplexity AI",
+    "description": "AI-powered search engine that answers queries with cited sources and conversational context.",
+    "useCase": "Search & Research",
+    "pricingModel": "Free",
+    "keywords": ["search", "research", "answers", "Q&A", "knowledge"],
+    "toolURL": "https://www.perplexity.ai/"
+  },
+  {
+    "id": 16,
+    "toolName": "DeepL Translator",
+    "description": "AI translator known for high accuracy and natural-sounding translations across languages.",
+    "useCase": "Translation",
+    "pricingModel": "Freemium",
+    "keywords": [
+      "language",
+      "translation",
+      "multilingual",
+      "writing",
+      "global"
+    ],
+    "toolURL": "https://www.deepl.com/"
+  },
+  {
+    "id": 17,
+    "toolName": "Lumen5",
+    "description": "AI video creation platform that turns blog posts into engaging social videos.",
+    "useCase": "Marketing Videos",
+    "pricingModel": "Freemium",
+    "keywords": ["video", "blog", "social", "marketing", "content"],
+    "toolURL": "https://lumen5.com/"
+  },
+  {
+    "id": 18,
+    "toolName": "Replika",
+    "description": "AI companion chatbot designed for conversations, mental well-being, and companionship.",
+    "useCase": "Companion Chatbot",
+    "pricingModel": "Freemium",
+    "keywords": ["chatbot", "mental health", "friendship", "conversation"],
+    "toolURL": "https://replika.com/"
+  },
+  {
+    "id": 19,
+    "toolName": "Otter.ai",
+    "description": "AI transcription tool that records and generates live meeting notes and summaries.",
+    "useCase": "Transcription",
+    "pricingModel": "Freemium",
+    "keywords": ["transcription", "meetings", "summary", "voice notes"],
+    "toolURL": "https://otter.ai/"
+  },
+  {
+    "id": 20,
+    "toolName": "Krisp AI",
+    "description": "AI-powered noise-canceling app for calls and recordings, removing background noise in real time.",
+    "useCase": "Noise Cancellation",
+    "pricingModel": "Freemium",
+    "keywords": ["noise", "audio", "calls", "meetings", "clear sound"],
+    "toolURL": "https://krisp.ai/"
+  },
+  {
+    "id": 21,
+    "toolName": "Surfer SEO",
+    "description": "AI-powered SEO tool that helps optimize website content for higher search engine rankings.",
+    "useCase": "SEO Optimization",
+    "pricingModel": "Paid",
+    "keywords": ["SEO", "ranking", "content", "keywords", "optimization"],
+    "toolURL": "https://surferseo.com/"
+  },
+  {
+    "id": 22,
+    "toolName": "Wordtune",
+    "description": "AI writing assistant that rewrites, shortens, and expands sentences for better clarity.",
+    "useCase": "Writing Assistance",
+    "pricingModel": "Freemium",
+    "keywords": ["writing", "clarity", "paraphrase", "emails", "productivity"],
+    "toolURL": "https://www.wordtune.com/"
+  },
+  {
+    "id": 23,
+    "toolName": "Tome",
+    "description": "AI storytelling platform that creates visually stunning presentations and reports from text input.",
+    "useCase": "Presentations",
+    "pricingModel": "Freemium",
+    "keywords": ["presentations", "slides", "storytelling", "reports"],
+    "toolURL": "https://tome.app/"
+  },
+  {
+    "id": 24,
+    "toolName": "HeyGen",
+    "description": "AI video generator for creating personalized talking avatar videos with voice cloning.",
+    "useCase": "Video Creation",
+    "pricingModel": "Paid",
+    "keywords": ["avatar", "video", "voice", "presentation", "AI"],
+    "toolURL": "https://www.heygen.com/"
+  },
+  {
+    "id": 25,
+    "toolName": "Podcastle",
+    "description": "AI-powered platform for podcast creation, editing, and distribution.",
+    "useCase": "Podcasting",
+    "pricingModel": "Freemium",
+    "keywords": ["podcast", "audio", "editing", "voice", "distribution"],
+    "toolURL": "https://podcastle.ai/"
+  },
+  {
+    "id": 26,
+    "toolName": "Magisto",
+    "description": "AI video editor that automatically creates polished videos from raw footage.",
+    "useCase": "Video Editing",
+    "pricingModel": "Paid",
+    "keywords": ["video", "editing", "automatic", "marketing", "shorts"],
+    "toolURL": "https://www.magisto.com/"
+  },
+  {
+    "id": 27,
+    "toolName": "Soundraw",
+    "description": "AI music generator that creates royalty-free background music for creators.",
+    "useCase": "Music Generation",
+    "pricingModel": "Paid",
+    "keywords": [
+      "music",
+      "soundtrack",
+      "royalty-free",
+      "background",
+      "AI music"
+    ],
+    "toolURL": "https://soundraw.io/"
+  },
+  {
+    "id": 28,
+    "toolName": "Cleanvoice",
+    "description": "AI tool that removes filler words, stuttering, and background noise from audio recordings.",
+    "useCase": "Audio Editing",
+    "pricingModel": "Freemium",
+    "keywords": ["audio", "podcast", "editing", "cleaning", "sound"],
+    "toolURL": "https://cleanvoice.ai/"
+  },
+  {
+    "id": 29,
+    "toolName": "VEED.io",
+    "description": "Online AI-powered video editor with auto-subtitles, translations, and effects.",
+    "useCase": "Video Editing",
+    "pricingModel": "Freemium",
+    "keywords": ["video", "editing", "subtitles", "translation", "effects"],
+    "toolURL": "https://www.veed.io/"
+  },
+  {
+    "id": 30,
+    "toolName": "Nova AI",
+    "description": "AI video editing tool with automatic captions, translations, and meme generation.",
+    "useCase": "Video Editing",
+    "pricingModel": "Freemium",
+    "keywords": ["video", "captions", "memes", "translation", "editing"],
+    "toolURL": "https://www.nova.ai/"
+  },
+  {
+    "id": 31,
+    "toolName": "Writesonic",
+    "description": "AI-powered writing tool that creates blog posts, ads, and website copy.",
+    "useCase": "Content Writing",
+    "pricingModel": "Freemium",
+    "keywords": ["writing", "blog", "ads", "copy", "SEO"],
+    "toolURL": "https://writesonic.com/"
+  },
+  {
+    "id": 32,
+    "toolName": "Anyword",
+    "description": "AI copywriting platform that generates high-conversion marketing text using predictive analytics.",
+    "useCase": "Marketing",
+    "pricingModel": "Paid",
+    "keywords": ["copywriting", "ads", "content", "analytics", "text"],
+    "toolURL": "https://anyword.com/"
+  },
+  {
+    "id": 33,
+    "toolName": "Peppertype",
+    "description": "AI content generator for blogs, SEO, and social media posts.",
+    "useCase": "Content Marketing",
+    "pricingModel": "Freemium",
+    "keywords": ["blog", "writing", "social", "marketing", "SEO"],
+    "toolURL": "https://www.peppertype.ai/"
+  },
+  {
+    "id": 34,
+    "toolName": "INK Editor",
+    "description": "AI-powered writing and SEO optimization platform for bloggers and marketers.",
+    "useCase": "SEO Writing",
+    "pricingModel": "Freemium",
+    "keywords": ["SEO", "writing", "content", "optimization", "blogs"],
+    "toolURL": "https://inkforall.com/"
+  },
+  {
+    "id": 35,
+    "toolName": "Sudowrite",
+    "description": "AI tool for creative writing, helping authors with ideas, plot twists, and descriptions.",
+    "useCase": "Creative Writing",
+    "pricingModel": "Paid",
+    "keywords": ["writing", "novels", "ideas", "fiction", "creativity"],
+    "toolURL": "https://www.sudowrite.com/"
+  },
+  {
+    "id": 36,
+    "toolName": "NovelAI",
+    "description": "AI-powered storytelling platform for generating creative novels, RPGs, and roleplay scenarios.",
+    "useCase": "Storytelling",
+    "pricingModel": "Paid",
+    "keywords": ["storytelling", "writing", "creative", "roleplay", "novels"],
+    "toolURL": "https://novelai.net/"
+  },
+  {
+    "id": 37,
+    "toolName": "Rytr",
+    "description": "AI writing assistant for generating content, emails, and blog posts.",
+    "useCase": "Copywriting",
+    "pricingModel": "Freemium",
+    "keywords": ["content", "emails", "blog", "writing", "assistant"],
+    "toolURL": "https://rytr.me/"
+  },
+  {
+    "id": 38,
+    "toolName": "Scalenut",
+    "description": "AI SEO and content marketing platform that helps create optimized articles.",
+    "useCase": "Content & SEO",
+    "pricingModel": "Freemium",
+    "keywords": ["SEO", "content", "articles", "blogs", "optimization"],
+    "toolURL": "https://www.scalenut.com/"
+  },
+  {
+    "id": 39,
+    "toolName": "Hypotenuse AI",
+    "description": "AI platform that generates product descriptions, blogs, and marketing content.",
+    "useCase": "E-commerce Copywriting",
+    "pricingModel": "Paid",
+    "keywords": ["ecommerce", "copywriting", "products", "content"],
+    "toolURL": "https://www.hypotenuse.ai/"
+  },
+  {
+    "id": 40,
+    "toolName": "Frase",
+    "description": "AI SEO research assistant that helps plan, write, and optimize content.",
+    "useCase": "SEO Research",
+    "pricingModel": "Freemium",
+    "keywords": ["SEO", "research", "content", "optimization"],
+    "toolURL": "https://www.frase.io/"
+  },
+  {
+    "id": 41,
+    "toolName": "Claude",
+    "description": "Anthropic’s AI assistant designed for safe, conversational interactions and productivity tasks.",
+    "useCase": "Conversational AI",
+    "pricingModel": "Freemium",
+    "keywords": ["chatbot", "assistant", "safe AI", "conversation"],
+    "toolURL": "https://www.anthropic.com/claude"
+  },
+  {
+    "id": 42,
+    "toolName": "Cohere",
+    "description": "AI platform offering NLP models for businesses including classification, summarization, and generation.",
+    "useCase": "Natural Language Processing",
+    "pricingModel": "Paid",
+    "keywords": ["NLP", "text", "generation", "business", "API"],
+    "toolURL": "https://cohere.com/"
+  },
+  {
+    "id": 43,
+    "toolName": "YouChat",
+    "description": "AI search assistant integrated into You.com, providing conversational answers and references.",
+    "useCase": "AI Search",
+    "pricingModel": "Free",
+    "keywords": ["search", "answers", "conversation", "chatbot"],
+    "toolURL": "https://you.com/"
+  },
+  {
+    "id": 44,
+    "toolName": "Elicit",
+    "description": "AI research assistant that helps researchers find papers, extract data, and summarize findings.",
+    "useCase": "Academic Research",
+    "pricingModel": "Freemium",
+    "keywords": ["research", "papers", "summary", "academics", "data"],
+    "toolURL": "https://elicit.org/"
+  },
+  {
+    "id": 45,
+    "toolName": "Scholarcy",
+    "description": "Summarizes research papers into easy-to-read flashcards with references and highlights.",
+    "useCase": "Research Summarization",
+    "pricingModel": "Freemium",
+    "keywords": ["research", "summarize", "papers", "academics"],
+    "toolURL": "https://www.scholarcy.com/"
+  },
+  {
+    "id": 46,
+    "toolName": "Explainpaper",
+    "description": "AI tool that explains academic papers in simple language for better understanding.",
+    "useCase": "Education",
+    "pricingModel": "Free",
+    "keywords": ["papers", "research", "explain", "education"],
+    "toolURL": "https://www.explainpaper.com/"
+  },
+  {
+    "id": 47,
+    "toolName": "Consensus",
+    "description": "AI-powered research engine that finds evidence-based answers from scientific papers.",
+    "useCase": "Research",
+    "pricingModel": "Free",
+    "keywords": ["research", "science", "papers", "answers"],
+    "toolURL": "https://consensus.app/"
+  },
+  {
+    "id": 48,
+    "toolName": "Humata AI",
+    "description": "AI assistant for reading and querying long documents like PDFs and research files.",
+    "useCase": "Document Understanding",
+    "pricingModel": "Freemium",
+    "keywords": ["documents", "PDF", "summarization", "Q&A"],
+    "toolURL": "https://humata.ai/"
+  },
+  {
+    "id": 49,
+    "toolName": "Legal Robot",
+    "description": "AI tool for analyzing legal contracts and documents to provide clarity and compliance insights.",
+    "useCase": "Legal Analysis",
+    "pricingModel": "Paid",
+    "keywords": ["legal", "contracts", "documents", "law"],
+    "toolURL": "https://legalrobot.com/"
+  },
+  {
+    "id": 50,
+    "toolName": "Harvey AI",
+    "description": "AI platform built for lawyers, offering research, drafting, and compliance tools.",
+    "useCase": "Legal Tech",
+    "pricingModel": "Paid",
+    "keywords": ["law", "legal", "contracts", "research"],
+    "toolURL": "https://www.harvey.ai/"
+  },
+  {
+    "id": 51,
+    "toolName": "DoNotPay",
+    "description": "World’s first AI lawyer that helps users fight fines, cancel subscriptions, and more.",
+    "useCase": "Legal Assistance",
+    "pricingModel": "Paid",
+    "keywords": ["legal", "subscriptions", "lawyer", "automation"],
+    "toolURL": "https://donotpay.com/"
+  },
+  {
+    "id": 52,
+    "toolName": "Casetext CoCounsel",
+    "description": "AI legal assistant that helps lawyers review documents, research, and summarize cases.",
+    "useCase": "Legal Research",
+    "pricingModel": "Paid",
+    "keywords": ["legal", "cases", "law", "research"],
+    "toolURL": "https://casetext.com/"
+  },
+  {
+    "id": 53,
+    "toolName": "Socratic by Google",
+    "description": "AI learning app that helps students solve homework problems with explanations.",
+    "useCase": "Education",
+    "pricingModel": "Free",
+    "keywords": ["education", "learning", "students", "homework"],
+    "toolURL": "https://socratic.org/"
+  },
+  {
+    "id": 54,
+    "toolName": "Khanmigo",
+    "description": "Khan Academy’s AI tutor that helps students learn interactively with step-by-step guidance.",
+    "useCase": "Tutoring",
+    "pricingModel": "Freemium",
+    "keywords": ["education", "tutor", "learning", "students"],
+    "toolURL": "https://www.khanacademy.org/khan-labs"
+  },
+  {
+    "id": 55,
+    "toolName": "Mathway",
+    "description": "AI-powered math problem solver that shows step-by-step solutions.",
+    "useCase": "Math Learning",
+    "pricingModel": "Freemium",
+    "keywords": ["math", "solver", "education", "problems"],
+    "toolURL": "https://www.mathway.com/"
+  },
+  {
+    "id": 56,
+    "toolName": "Photomath",
+    "description": "AI app that solves math problems by scanning handwritten or printed equations.",
+    "useCase": "Education",
+    "pricingModel": "Freemium",
+    "keywords": ["math", "scanner", "education", "problems"],
+    "toolURL": "https://photomath.com/"
+  },
+  {
+    "id": 57,
+    "toolName": "Wolfram Alpha",
+    "description": "Computational knowledge engine for solving math, science, and data queries.",
+    "useCase": "Computation",
+    "pricingModel": "Freemium",
+    "keywords": ["math", "science", "knowledge", "data"],
+    "toolURL": "https://www.wolframalpha.com/"
+  },
+  {
+    "id": 58,
+    "toolName": "Caktus AI",
+    "description": "AI-powered platform for students that generates essays, solves problems, and assists in learning.",
+    "useCase": "Student Productivity",
+    "pricingModel": "Paid",
+    "keywords": ["education", "students", "essays", "productivity"],
+    "toolURL": "https://www.caktus.ai/"
+  },
+  {
+    "id": 59,
+    "toolName": "Gradescope",
+    "description": "AI tool that helps teachers grade exams and assignments quickly and fairly.",
+    "useCase": "EdTech",
+    "pricingModel": "Paid",
+    "keywords": ["education", "grading", "teachers", "students"],
+    "toolURL": "https://www.gradescope.com/"
+  },
+  {
+    "id": 60,
+    "toolName": "Quizgecko",
+    "description": "AI tool that generates quizzes and flashcards from any text or document.",
+    "useCase": "Education",
+    "pricingModel": "Freemium",
+    "keywords": ["quiz", "education", "flashcards", "learning"],
+    "toolURL": "https://quizgecko.com/"
+  },
+  {
+    "id": 61,
+    "toolName": "Genei",
+    "description": "AI-powered research tool that summarizes documents, extracts insights, and creates notes.",
+    "useCase": "Research Summarization",
+    "pricingModel": "Paid",
+    "keywords": ["research", "summarization", "notes", "productivity"],
+    "toolURL": "https://www.genei.io/"
+  },
+  {
+    "id": 62,
+    "toolName": "Eightify",
+    "description": "Summarizes long YouTube videos into short key takeaways using AI.",
+    "useCase": "Video Summarization",
+    "pricingModel": "Freemium",
+    "keywords": ["YouTube", "video", "summary", "education"],
+    "toolURL": "https://eightify.app/"
+  },
+  {
+    "id": 63,
+    "toolName": "Vidyo.ai",
+    "description": "AI video repurposing tool that converts long-form videos into viral short clips.",
+    "useCase": "Video Repurposing",
+    "pricingModel": "Freemium",
+    "keywords": ["video", "shorts", "clips", "social media"],
+    "toolURL": "https://vidyo.ai/"
+  },
+  {
+    "id": 64,
+    "toolName": "Glasp",
+    "description": "AI-powered social web highlighter that helps capture, organize, and share notes.",
+    "useCase": "Knowledge Management",
+    "pricingModel": "Free",
+    "keywords": ["notes", "highlight", "knowledge", "productivity"],
+    "toolURL": "https://glasp.co/"
+  },
+  {
+    "id": 65,
+    "toolName": "Superhuman",
+    "description": "AI-enhanced email client designed for speed, productivity, and smart prioritization.",
+    "useCase": "Email Productivity",
+    "pricingModel": "Paid",
+    "keywords": ["email", "productivity", "automation", "communication"],
+    "toolURL": "https://superhuman.com/"
+  },
+  {
+    "id": 66,
+    "toolName": "Lavender",
+    "description": "AI sales email coach that helps write personalized emails faster and improves reply rates.",
+    "useCase": "Sales",
+    "pricingModel": "Freemium",
+    "keywords": ["sales", "email", "outreach", "communication"],
+    "toolURL": "https://www.lavender.ai/"
+  },
+  {
+    "id": 67,
+    "toolName": "Timely",
+    "description": "AI-powered automatic time tracking tool for individuals and teams.",
+    "useCase": "Productivity",
+    "pricingModel": "Paid",
+    "keywords": ["time tracking", "productivity", "teams", "automation"],
+    "toolURL": "https://timelyapp.com/"
+  },
+  {
+    "id": 68,
+    "toolName": "Motion",
+    "description": "AI productivity app that automatically plans your schedule and prioritizes tasks.",
+    "useCase": "Task Management",
+    "pricingModel": "Paid",
+    "keywords": ["calendar", "tasks", "productivity", "automation"],
+    "toolURL": "https://www.usemotion.com/"
+  },
+  {
+    "id": 69,
+    "toolName": "ClickUp AI",
+    "description": "AI assistant integrated into ClickUp to help manage tasks, projects, and documents.",
+    "useCase": "Project Management",
+    "pricingModel": "Paid",
+    "keywords": ["tasks", "projects", "documents", "productivity"],
+    "toolURL": "https://clickup.com/ai"
+  },
+  {
+    "id": 70,
+    "toolName": "Taskade",
+    "description": "AI productivity tool for brainstorming, mind mapping, and project collaboration.",
+    "useCase": "Collaboration",
+    "pricingModel": "Freemium",
+    "keywords": ["tasks", "collaboration", "brainstorming", "notes"],
+    "toolURL": "https://www.taskade.com/"
+  },
+  {
+    "id": 71,
+    "toolName": "Otio",
+    "description": "AI-powered task manager that organizes notes, ideas, and projects automatically.",
+    "useCase": "Productivity",
+    "pricingModel": "Freemium",
+    "keywords": ["tasks", "notes", "projects", "automation"],
+    "toolURL": "https://otio.ai/"
+  },
+  {
+    "id": 72,
+    "toolName": "Mem",
+    "description": "AI note-taking app that automatically organizes and connects your notes.",
+    "useCase": "Note-taking",
+    "pricingModel": "Freemium",
+    "keywords": ["notes", "organization", "memory", "productivity"],
+    "toolURL": "https://mem.ai/"
+  },
+  {
+    "id": 73,
+    "toolName": "Reclaim",
+    "description": "AI calendar assistant that optimizes schedules for meetings, tasks, and habits.",
+    "useCase": "Scheduling",
+    "pricingModel": "Freemium",
+    "keywords": ["calendar", "scheduling", "productivity", "automation"],
+    "toolURL": "https://reclaim.ai/"
+  },
+  {
+    "id": 74,
+    "toolName": "Clockwise",
+    "description": "AI calendar tool that optimizes your day by automatically arranging meetings.",
+    "useCase": "Time Management",
+    "pricingModel": "Freemium",
+    "keywords": ["calendar", "time", "meetings", "automation"],
+    "toolURL": "https://www.getclockwise.com/"
+  },
+  {
+    "id": 75,
+    "toolName": "Crystal Knows",
+    "description": "AI personality platform that helps sales teams understand prospects’ communication styles.",
+    "useCase": "Sales",
+    "pricingModel": "Paid",
+    "keywords": ["sales", "personality", "communication", "CRM"],
+    "toolURL": "https://www.crystalknows.com/"
+  },
+  {
+    "id": 76,
+    "toolName": "Gong.io",
+    "description": "AI-powered sales intelligence platform that analyzes customer interactions.",
+    "useCase": "Sales Analytics",
+    "pricingModel": "Paid",
+    "keywords": ["sales", "analytics", "conversations", "AI"],
+    "toolURL": "https://www.gong.io/"
+  },
+  {
+    "id": 77,
+    "toolName": "Chorus.ai",
+    "description": "Conversation intelligence platform that records, transcribes, and analyzes sales calls.",
+    "useCase": "Sales Productivity",
+    "pricingModel": "Paid",
+    "keywords": ["sales", "calls", "analytics", "conversations"],
+    "toolURL": "https://www.chorus.ai/"
+  },
+  {
+    "id": 78,
+    "toolName": "Zoom IQ",
+    "description": "AI-powered meeting assistant for Zoom that provides insights, summaries, and highlights.",
+    "useCase": "Meetings",
+    "pricingModel": "Freemium",
+    "keywords": ["meetings", "Zoom", "summary", "productivity"],
+    "toolURL": "https://explore.zoom.us/en/products/zoom-iq/"
+  },
+  {
+    "id": 79,
+    "toolName": "Fathom",
+    "description": "AI meeting assistant that records, transcribes, and summarizes Zoom calls for free.",
+    "useCase": "Meetings",
+    "pricingModel": "Free",
+    "keywords": ["meetings", "Zoom", "notes", "summary"],
+    "toolURL": "https://fathom.video/"
+  },
+  {
+    "id": 80,
+    "toolName": "Avoma",
+    "description": "AI meeting assistant for note-taking, agenda creation, and call insights.",
+    "useCase": "Meetings",
+    "pricingModel": "Paid",
+    "keywords": ["meetings", "calls", "notes", "agenda"],
+    "toolURL": "https://www.avoma.com/"
+  },
+  {
+    "id": 81,
+    "toolName": "Beautiful.ai",
+    "description": "AI-powered presentation software that designs slides automatically for professional results.",
+    "useCase": "Presentations",
+    "pricingModel": "Freemium",
+    "keywords": ["presentations", "slides", "design", "business"],
+    "toolURL": "https://www.beautiful.ai/"
+  },
+  {
+    "id": 82,
+    "toolName": "Slidebean",
+    "description": "AI presentation platform that creates investor pitch decks and business presentations.",
+    "useCase": "Business Presentations",
+    "pricingModel": "Paid",
+    "keywords": ["pitch deck", "presentations", "slides", "business"],
+    "toolURL": "https://slidebean.com/"
+  },
+  {
+    "id": 83,
+    "toolName": "Decktopus",
+    "description": "AI-powered presentation builder that generates outlines, designs, and visuals instantly.",
+    "useCase": "Presentations",
+    "pricingModel": "Freemium",
+    "keywords": ["slides", "presentations", "design", "AI"],
+    "toolURL": "https://www.decktopus.com/"
+  },
+  {
+    "id": 84,
+    "toolName": "Gamma",
+    "description": "AI-powered tool for creating presentations, documents, and webpages with minimal effort.",
+    "useCase": "Productivity",
+    "pricingModel": "Freemium",
+    "keywords": ["presentations", "documents", "webpages", "AI"],
+    "toolURL": "https://gamma.app/"
+  },
+  {
+    "id": 85,
+    "toolName": "Slidesgo AI",
+    "description": "Generates customizable Google Slides and PowerPoint templates using AI.",
+    "useCase": "Slides Templates",
+    "pricingModel": "Freemium",
+    "keywords": ["slides", "templates", "presentations", "design"],
+    "toolURL": "https://slidesgo.com/ai"
+  },
+  {
+    "id": 86,
+    "toolName": "Simplified",
+    "description": "AI design and content creation tool for social media, ads, and marketing campaigns.",
+    "useCase": "Design & Marketing",
+    "pricingModel": "Freemium",
+    "keywords": ["design", "ads", "marketing", "social media"],
+    "toolURL": "https://simplified.com/"
+  },
+  {
+    "id": 87,
+    "toolName": "Canva AI",
+    "description": "Popular design tool enhanced with AI features for text-to-image, writing, and templates.",
+    "useCase": "Design",
+    "pricingModel": "Freemium",
+    "keywords": ["design", "templates", "social media", "graphics"],
+    "toolURL": "https://www.canva.com/ai"
+  },
+  {
+    "id": 88,
+    "toolName": "Remove.bg",
+    "description": "AI tool that removes image backgrounds automatically in seconds.",
+    "useCase": "Image Editing",
+    "pricingModel": "Freemium",
+    "keywords": ["image", "background removal", "editing", "design"],
+    "toolURL": "https://www.remove.bg/"
+  },
+  {
+    "id": 89,
+    "toolName": "Cleanup.pictures",
+    "description": "AI tool for removing objects, text, and defects from images quickly.",
+    "useCase": "Image Editing",
+    "pricingModel": "Freemium",
+    "keywords": ["image", "editing", "objects", "cleanup"],
+    "toolURL": "https://cleanup.pictures/"
+  },
+  {
+    "id": 90,
+    "toolName": "Let's Enhance",
+    "description": "AI image enhancer that increases resolution, quality, and sharpness of photos.",
+    "useCase": "Image Enhancement",
+    "pricingModel": "Freemium",
+    "keywords": ["image", "enhancement", "quality", "upscale"],
+    "toolURL": "https://letsenhance.io/"
+  },
+  {
+    "id": 91,
+    "toolName": "RunDiffusion",
+    "description": "AI cloud platform for running Stable Diffusion image generation models easily.",
+    "useCase": "Image Generation",
+    "pricingModel": "Paid",
+    "keywords": ["image", "stable diffusion", "AI art", "generation"],
+    "toolURL": "https://rundiffusion.com/"
+  },
+  {
+    "id": 92,
+    "toolName": "Play.ht",
+    "description": "AI voice generator and text-to-speech platform with ultra-realistic voices.",
+    "useCase": "Voice Generation",
+    "pricingModel": "Freemium",
+    "keywords": ["voice", "text-to-speech", "narration", "podcast"],
+    "toolURL": "https://play.ht/"
+  },
+  {
+    "id": 93,
+    "toolName": "ElevenLabs",
+    "description": "AI voice synthesis platform for ultra-realistic speech generation and dubbing.",
+    "useCase": "Voice Cloning",
+    "pricingModel": "Paid",
+    "keywords": ["voice", "cloning", "dubbing", "AI speech"],
+    "toolURL": "https://elevenlabs.io/"
+  },
+  {
+    "id": 94,
+    "toolName": "Resemble AI",
+    "description": "AI platform for creating custom voices with cloning and generative speech.",
+    "useCase": "Voice Generation",
+    "pricingModel": "Paid",
+    "keywords": ["voice", "generation", "cloning", "speech"],
+    "toolURL": "https://www.resemble.ai/"
+  },
+  {
+    "id": 95,
+    "toolName": "WellSaid Labs",
+    "description": "AI-powered text-to-speech tool for professional voiceovers.",
+    "useCase": "Voiceover",
+    "pricingModel": "Paid",
+    "keywords": ["voiceover", "text-to-speech", "audio", "narration"],
+    "toolURL": "https://wellsaidlabs.com/"
+  },
+  {
+    "id": 96,
+    "toolName": "Voicemod",
+    "description": "AI real-time voice changer and soundboard app for gaming and streaming.",
+    "useCase": "Voice Effects",
+    "pricingModel": "Freemium",
+    "keywords": ["voice", "gaming", "streaming", "effects"],
+    "toolURL": "https://www.voicemod.net/"
+  },
+  {
+    "id": 97,
+    "toolName": "Synthesys",
+    "description": "AI platform that generates human-like voices and avatars for video content.",
+    "useCase": "AI Avatars",
+    "pricingModel": "Paid",
+    "keywords": ["voice", "avatars", "video", "AI"],
+    "toolURL": "https://synthesys.io/"
+  },
+  {
+    "id": 98,
+    "toolName": "Hour One",
+    "description": "AI video generation tool that turns text into talking avatar videos for businesses.",
+    "useCase": "Video Creation",
+    "pricingModel": "Paid",
+    "keywords": ["video", "avatars", "text-to-video", "business"],
+    "toolURL": "https://hourone.ai/"
+  },
+  {
+    "id": 99,
+    "toolName": "Colossyan",
+    "description": "AI video platform that generates instructional and training videos with avatars.",
+    "useCase": "Training Videos",
+    "pricingModel": "Paid",
+    "keywords": ["video", "avatars", "training", "education"],
+    "toolURL": "https://www.colossyan.com/"
+  },
+  {
+    "id": 100,
+    "toolName": "InVideo",
+    "description": "AI-powered video creation platform with templates for social media, ads, and marketing.",
+    "useCase": "Video Editing",
+    "pricingModel": "Freemium",
+    "keywords": ["video", "ads", "templates", "editing"],
+    "toolURL": "https://invideo.io/"
+  }
+]
